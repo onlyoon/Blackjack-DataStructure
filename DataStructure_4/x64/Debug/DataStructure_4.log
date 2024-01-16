@@ -1,0 +1,7 @@
+﻿  소스.c
+C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\소스.c(179,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\소스.c(203,31): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\소스.c(426,15): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[5]'과(와) 다릅니다.
+C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\소스.c(426,11): warning C4024: 'change': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\소스.c(184): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  DataStructure_4.vcxproj -> C:\Users\parky\Desktop\STUDY\CODING\C programming DIRECTORY\DataStructure_4\x64\Debug\DataStructure_4.exe
